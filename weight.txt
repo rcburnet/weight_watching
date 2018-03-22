@@ -1,0 +1,39 @@
+DATE (YYYYMMDDHHMM);WEIGHT (lbs);Fast day?(2 - yes [Only water], 1 - Heavy calorie restriction [check notes, typically means consumes roughly 500-1000 calories that day], 0 - no [ate normally, 2-3 meals plus snacks that day]);calories consumed;calories burned (active);calories burned (inactive);carbs consumed (g);protein (g);fat (g);sodium (g);cholesterol (mg);sugars (g);dietary fiber (g);notes
+201802131948;214.4;1;500;608;1635;2127.512;0;0;0;0;0;weight taken at night after dinner and possibly with clothes on
+201802140950;206.8;0;2494;702;1702;101;58;70;2324;264;30;8;first post fast
+201802151000;209.6;2;0;488;1720
+201802160900;205.6;2;0;798;1664
+201802170910;203.8;1;1000;594;1684;only ate at around 12:30 - 2 AM, then fasted until 02/18
+201802181015;201.2;0;3000;877;1611;ate normally, broke fast with garden salad, last meal was chicken ceasar salad, had chinese food with chicken, fish, tofu, and rice for lunch with family
+201802191335;204.8;1;500;292;1740;Had a small garden salad with ranch dressing at around dinner time, and two small french fries
+201802201114;202.4;2;0;866;1625
+201802211030;200.8;0;2500;531;1683
+201802221030;203.8;2;0;748;1647
+201802231000;201.6;0;2500;195;1762;ate at 12AM, so my weight may be affected a bit
+201802241100;203.8;0;2500;814;1628
+201802251015;207.4;0;3000;448;1721
+201802260930;207.8;2;0;611;1695
+201802271050;203.0;1;1000;824;1637;Had some small snacks throughout the day (pieces of breadsticks and pastries, chinese wife and husband cakes) as I went to Markham with my mom and sister since Market Village is closing tomorrow. Also ate pork chop rice.
+201802281030;202.4;1;740;772;1636;Ate a ceasar salad at Chuck's roadhouse. They have unlimited salads so I had two bowls, which was estimated at abot 740 calories.
+201803011000;200.0;0;3000;804;1621;Ate a lot of food. Went to Mexico Lindo, then subway, then had a bad of chips and some of my mom's pasta with mayonnaise, tuna, and cucumbers.
+201803021100;204.4;1;360;842;1619;Ate a butter tart at Jeremy's sister's house, also had a coke zero.
+201803031150;202.0;1;500;766;1640;Ate a few fries, a piece of fried chicken, and a small bite-size piece of pizza.
+201803041140;198.8;1;800;951;1585;Ate a red bean pastry, two chicken nuggets, two peak freen cookies, a piece of chocolate, and a small bowl of spaghetti
+201803051130;197.8;0;2500;885;1590;Ate a lot of food. Ended day off with Jeremy's homemade curry at his sister's house. It was delicious. Also maple sugar cake which was way too sweet.
+201803061130;200.6;1;500;600;1655;Ate a piece of fried chicken, and three pieces of sushi.
+201803071030;199.0;1;400;645;1649;Ate some chips, a peak freen cookie, and a small bite-sized piece of naan with a spoonfull of curry that my mom made.
+201803081110;197.8;1;500;694;1643;Ate a couple handfuls of chips, a peak freen cookie, and a bite-size piece of curry pizza my mom made with the naan.
+201803091000;196.0;0;3000;1063;1543;Ate so much shit.
+201803101150;199.0;1;500;842;1596;Ate a bowl of ceasar salad at Chuck's Roadhouse and a spoon of cherry ice cream.
+201803111050;198.4;1;500;256;1654;Had a small bowl of noodles with soup that my mom made, and two small reese cups when we went to look at houses with Jessica.
+201803121000;195.2;1;500;248;1722;Ate a bowl of soup that my mom made, some crackers and veggie chips.
+201803130800;194.0;0;3000;895;1568
+201803141240;197.2;1;500;916;1569;Ate a cesar salad at chucks, had a medium steeped tea double double.
+201803151130;195.2;1;400;825;1593;Ate a handful of crackers (7 pieces) with cheese, and a small teaspoon full of curry to taste my mom's curry.
+201803161030;191.8;1;500;557;1637;Ate a bunch of free samples at costco, as well as ritz crackers with cheese.
+201803170730;191.2;0;3000;914;1549
+201803181200;196.2;1;500;782;1588;Had a salad from one of Kirk's sides at lonestar, also had a piece of cookie and two chicken strips
+201803191040;195.4;1;300;716;1614;Had three chicken wings and a small piece of a cookie.
+201803201000;193.2;1;500;687;1613;Ate a couple handfuls of goldfish crackers, a few ritz crackers, and three chicken wings
+201803211100;191.0;1;500;1274;1287;Ate a couple handfuls of goldfish crackers, four ritz crackers with cheese, a few sour cream and onion ring chips. Also, I got a haircut later on in the day so the scale might be affected by that tomorrow.
+201803220730;189.8;0;3000;;
