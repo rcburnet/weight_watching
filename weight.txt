@@ -1,4 +1,4 @@
-DATE (YYYYMMDDHHMM);WEIGHT (lbs);Fast day?(2 - yes [Only water], 1 - Heavy calorie restriction [check notes, typically means consumes roughly 500-1000 calories that day], 0 - no [ate normally, 2-3 meals plus snacks that day]);calories consumed;calories burned (active, as measured by Google Fit);calories burned (inactive, as measured by Google Fit);notes
+DATE (YYYYMMDDHHMM);WEIGHT (lbs);Fast day?(2 - yes [Only water], 1 - Heavy caloric restriction [check notes, typically means consumed roughly <1000 calories that day], 0 - no [ate normally, 2-3 meals plus snacks that day]);calories consumed;calories burned (active, as measured by Google Fit);calories burned (inactive, as measured by Google Fit);notes
 201802131948;214.4;1;500;608;1635;weight taken at night after dinner and possibly with clothes on
 201802140950;206.8;0;2494;702;1702;first post fast
 201802151000;209.6;2;0;488;1720
