@@ -36,5 +36,6 @@ DATE (YYYYMMDDHHMM);WEIGHT (lbs);Fast day?(2 - yes [Only water], 1 - Heavy calor
 201803191040;195.4;1;300;716;1614;Had three chicken wings and a small piece of a cookie.
 201803201000;193.2;1;500;687;1613;Ate a couple handfuls of goldfish crackers, a few ritz crackers, and three chicken wings
 201803211100;191.0;1;500;1274;1476;Ate a couple handfuls of goldfish crackers, four ritz crackers with cheese, a few sour cream and onion ring chips. Also, I got a haircut later on in the day so the scale might be affected by that tomorrow.
-201803220730;189.8;0;3000;1016;1223;
-201803231015;191.2;2;;
+201803220730;189.8;0;3000;1016;1520;Finished large bag of sour cream and onion ring chips, had more than half a box of chicken nuggets, some left over taco that my sister brought home, many crackers, a yogurt cup, toaster strudel, drank a 1L bottle of pear juice and a few cups of apple juice, just a lot of garbage
+201803231015;191.2;1;300;962;1390;Had two chocolate pretzels and a chicken strip/fillet.
+201803241015;189.2;1;;

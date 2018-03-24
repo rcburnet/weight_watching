@@ -91,6 +91,6 @@ plt.title('Daily weight')
 plt.ylabel('Weight (lbs)')
 plt.xlabel('Date')
 
-# save plot and close
+# Save plot and close
 plt.savefig('weight.png', bbox_inches='tight')
 plt.close()
