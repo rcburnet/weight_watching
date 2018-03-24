@@ -28,7 +28,7 @@ DATE (YYYYMMDDHHMM);WEIGHT (lbs);Fast day?(2 - yes [Only water], 1 - Heavy calor
 201803111050;198.4;1;500;256;1654;Had a small bowl of noodles with soup that my mom made, and two small reese cups when we went to look at houses with Jessica.
 201803121000;195.2;1;500;248;1722;Ate a bowl of soup that my mom made, some crackers and veggie chips.
 201803130800;194.0;0;3000;895;1568
-201803141240;197.2;1;500;916;1569;Ate a cesar salad at chucks, had a medium steeped tea double double.
+201803141240;197.2;1;500;916;1569;Ate a caesar salad at chucks, had a medium steeped tea double double.
 201803151130;195.2;1;400;825;1593;Ate a handful of crackers (7 pieces) with cheese, and a small teaspoon full of curry to taste my mom's curry.
 201803161030;191.8;1;500;557;1637;Ate a bunch of free samples at costco, as well as ritz crackers with cheese.
 201803170730;191.2;0;3000;914;1549
@@ -37,5 +37,5 @@ DATE (YYYYMMDDHHMM);WEIGHT (lbs);Fast day?(2 - yes [Only water], 1 - Heavy calor
 201803201000;193.2;1;500;687;1613;Ate a couple handfuls of goldfish crackers, a few ritz crackers, and three chicken wings
 201803211100;191.0;1;500;1274;1476;Ate a couple handfuls of goldfish crackers, four ritz crackers with cheese, a few sour cream and onion ring chips. Also, I got a haircut later on in the day so the scale might be affected by that tomorrow.
 201803220730;189.8;0;3000;1016;1520;Finished large bag of sour cream and onion ring chips, had more than half a box of chicken nuggets, some left over taco that my sister brought home, many crackers, a yogurt cup, toaster strudel, drank a 1L bottle of pear juice and a few cups of apple juice, just a lot of garbage
-201803231015;191.2;1;300;962;1390;Had two chocolate pretzels and a chicken strip/fillet.
-201803241015;189.2;1;;
+201803231015;191.2;1;300;962;1390;Had two yogurt pretzels and a chicken strip/fillet.
+201803241015;189.2;1;400;;Had 4 pieces of meat from chinese takeout and a yogurt pretzel
