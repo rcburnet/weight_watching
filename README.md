@@ -1,4 +1,6 @@
-Here, you will find my weight loss journey text files and scripts.
+Here, you will find my weight loss journey text files and scripts. 
+
+I started at a weight of around 210 lbs and am aiming for a weight of 160-170 lbs. I'll go for 3-4 days of either eating nothing at all, or eating very little (<1000 calories) until I've reached a weight lower than my previous 3-4 day low calorie period, and then I'll have a feast day where I'd eat normally, and repeat. I take a multivitamin with minerals and fish oil pills everyday to ensure I don't get malnourished, and I have frequent trips to the doctor for checkups to make sure everything is okay.
 
 fasting.txt gives details on what I do during my fast and a bit of background as to why.
 
