@@ -46,12 +46,12 @@ for i in range(len(weight_lines)):
         date_time_heavy_caloric_restriction.append(datetime.datetime.strptime(weight_lines[i][0], '%Y%m%d%H%M'))
     fast.append(weight_lines[i][2][:-1])
 
-# Moving average functon, taken straight from:
+# Moving average function, modified from:
 # https://gordoncluster.wordpress.com/2014/02/13/python-numpy-how-to-generate-moving-averages-efficiently-part-2/
 def movingaverage (values, window):
     weights = np.repeat(1.0, window)/window
     sma = np.convolve(values, weights, 'valid')
-    return sma
+    return np.around(sma,2)
 
 # Get rolling mean list
 rolling_mean = movingaverage(weight, rolling_window)
@@ -62,9 +62,9 @@ fig, ax = plt.subplots()
 # Shade regions of increase and decrease in rolling mean
 for i in range(1,len(rolling_mean)):
     if rolling_mean[i] > rolling_mean[i-1]:
-        plt.axvspan(date_time[rolling_window-1+i-1],date_time[rolling_window-1+i], color='red', alpha=0.2, lw=0)
+        plt.axvspan(date_time[rolling_window-1+i-1],date_time[rolling_window-1+i], color='red', alpha=0.25, lw=0)
     else:
-        plt.axvspan(date_time[rolling_window-1+i-1],date_time[rolling_window-1+i], color='blue', alpha=0.2, lw=0)
+        plt.axvspan(date_time[rolling_window-1+i-1],date_time[rolling_window-1+i], color='blue', alpha=0.25, lw=0)
 
 # Plot shaded regions above and below rolling mean
 plt.fill_between(date_time[rolling_window-1:], rolling_mean, weight[rolling_window-1:], where=rolling_mean >= weight[rolling_window-1:], facecolor='blue', alpha=0.5, interpolate=True)
